@@ -119,18 +119,12 @@ Indian Institute of Technology, Madras
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas132005&show_icons=true&theme=blue-green&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas132005&layout=compact&theme=blue-green)
-
----
 
 ## 🔗 Connect with Me
 
 📧 tejasjyoti2005@gmail.com  
 📍 Bangalore, India  
-📱 +91 6363957397  
+ 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)  
