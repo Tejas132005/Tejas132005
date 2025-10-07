@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tejas Jyoti
 
-I'm a passionate and curious **B.Sc. (Hons)** student in **Data Science and Artificial Intelligence at IIT Madras**, driven by a love for backend development, full-stack web apps, and AI solutions. I enjoy solving real-world problems with efficient, secure, and scalable code.
+I'm a passionate and curious **B.Sc. (Hons)** student in **Data Science and Applications at IIT Madras** and **Machine learning** enthusiast, driven by a love for backend development, full-stack web apps, and AI solutions. I enjoy solving real-world problems with efficient, secure, and scalable code.
 
 ---
 
