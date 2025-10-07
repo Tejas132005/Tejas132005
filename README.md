@@ -121,8 +121,8 @@ Indian Institute of Technology, Madras
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasJyoti&show_icons=true&theme=blue-green&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasJyoti&layout=compact&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas132005&show_icons=true&theme=blue-green&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas132005&layout=compact&theme=blue-green)
 
 ---
 
