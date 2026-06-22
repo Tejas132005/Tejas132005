@@ -121,17 +121,25 @@ Indian Institute of Technology, Madras
 
 ## 🧰 Experience
 
-**Python Development Intern — KL Bohra (Remote)**  
-📅 Jul 2025 – Present  
+**Python Developmer — Freelancing (Remote)**  
+📅 Jul 2025 – Jan 2025  
 - Backend development with Python & Django  
 - API integrations and database modeling  
-- Writing unit tests and improving performance of production modules  
+- Writing unit tests and improving performance of production modules
+
+---
+
+**AI Intern - PW LeapX**
+📅 Feb 2026 – May 2026
+- Worked on production level LLM agents
+- Built AI Conversation Intelligence (CI) platform
+- Worked on ChatBots for students.
 
 ---
 
 ## 🏅 Achievements
 
-- Solved **200+ DSA problems** on LeetCode  
+- Solved **350+ DSA problems** on LeetCode  
 - Ranked in **top 1%** of college competitive programming club  
 - Selected for **3 internships in first year** demonstrating strong technical foundation  
 
