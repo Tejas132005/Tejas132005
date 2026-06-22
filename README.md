@@ -29,13 +29,13 @@ and market response with visualized predictive insights and analytics.
 > A production-ready recruitment orchestration system powered by FastAPI, LangChain, LangGraph, and Groq.
 
 ** Features **
-> AI-Driven JD Generation: Recruiter provides a prompt, LLM crafts a professional JD.
-> Approval Workflow: Admin reviews and approves job postings.
-> Smart Application Window: Auto-closes after 15 minutes or 8 applications.
-> LLM Resume Scoring: Automated ATS evaluation with detailed reasoning.
-> End-to-End Orchestration: Managed by LangGraph for structured hiring flows.
-> Email System: Automated OTP, Interview invites, Offer letters, and Regret mails.
-> Premium Dashboard: Glassmorphism dark theme UI for all roles.
+- AI-Driven JD Generation: Recruiter provides a prompt, LLM crafts a professional JD.
+- Approval Workflow: Admin reviews and approves job postings.
+- Smart Application Window: Auto-closes after 15 minutes or 8 applications.
+- LLM Resume Scoring: Automated ATS evaluation with detailed reasoning.
+- End-to-End Orchestration: Managed by LangGraph for structured hiring flows.
+- Email System: Automated OTP, Interview invites, Offer letters, and Regret mails.
+- Premium Dashboard: Glassmorphism dark theme UI for all roles.
 
 **Tech Stack:**  : FastAPI (Python), LangChain + LangGraph + Groq (Llama-3.3-70B), SQLite with SQLAlchemy ORM, HTML5, CSS3 (Vanilla + Glassmorphism), Bootstrap 5, JavaScript, JWT Authentication, Password Hashing (Bcrypt). 
 
