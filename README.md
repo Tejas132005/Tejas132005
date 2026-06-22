@@ -24,11 +24,11 @@ and market response with visualized predictive insights and analytics.
 ---
 
 ### Automated Hiring System (HireStream AI)
-** AI Agent / LLM Projects **
+**AI Agent / LLM Projects**
 
 > A production-ready recruitment orchestration system powered by FastAPI, LangChain, LangGraph, and Groq.
 
-** Features **
+**Features**
 - AI-Driven JD Generation: Recruiter provides a prompt, LLM crafts a professional JD.
 - Approval Workflow: Admin reviews and approves job postings.
 - Smart Application Window: Auto-closes after 15 minutes or 8 applications.
