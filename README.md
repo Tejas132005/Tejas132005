@@ -6,11 +6,10 @@ I'm a passionate and curious **BS** student in **Data Science and Applications a
 
 ## 🧠 Interests
 
-- ⚙️ Full Stack Web & Backend Development (Django, Flask)
+- ⚙️ Full Stack Web & Backend Development (Django, Flask, Fast API)
 - 🤖 AI / Machine Learning for Real-World Applications
-- ☁️ Cloud & DevOps (Docker, CI/CD)
 - 📊 Data Science & Predictive Modeling
-- 💬 Automation Bots (Telegram, REST APIs)
+- 💬 Automation Bots
 
 ---
 
